@@ -23,12 +23,14 @@ public class Main {
 
         System.out.println("\n ====================== HW 10.1 codewars 4");
 //    HW10.1    https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java
-        Solution.setInput("I hate arrays they are sucks");
-        System.out.println(Solution.stringToArray("I hate arrays they are sucks"));
+        String input = "I love arrays they are my favorite";
+        String[] words = Solution.stringToArray(input);
+        System.out.println(Arrays.toString(words));
 
         System.out.println("\n ====================== HW 10.1 codewars 5");
 //    HW10.1    https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/java
-
+        String replace = "We need to take S as 5 O as 0 and I as 1";
+        System.out.println(Correct.correct(replace));
 
 //    HW10.2    https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/java
 //    HW10.2    https://www.codewars.com/kata/5aa736a455f906981800360d/train/java

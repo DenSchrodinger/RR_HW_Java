@@ -5,19 +5,9 @@ public class Solution {
     // Examples (Input ==> Output):
     // "I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
 
-    private static String input;
     public static String[] stringToArray(String s) {
-        //String input = "I hate arrays they are sucks";
-        String[] words = input.split(" ");
+        String[] words = s.split(" ");
         return words;
     }
 
-    public static void setInput(String input) {
-        Solution.input = input;
-    }
-//    public static void main(String[] args) {
-//        String input = "This is a test string";
-//        String[] words = splitString(input);
-//        System.out.println(Arrays.toString(words)); // prints ["This", "is", "a", "test", "string"]
-//    }
 }
