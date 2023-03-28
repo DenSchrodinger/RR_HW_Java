@@ -3,7 +3,7 @@ package HW10;
 public class Main {
     public static void main(String[] args) {
 
-//        HW10.1 12345464646544564
+//        HW10.1
 //        https://www.codewars.com/kata/53369039d7ab3ac506000467/train/java
 //        https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java
 //        https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java
