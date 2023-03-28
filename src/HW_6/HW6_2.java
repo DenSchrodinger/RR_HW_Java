@@ -1,7 +1,4 @@
 package HW_6;
-
-import java.lang.module.FindException;
-
 public class HW6_2 {
     public static void main(String[] args) {
 

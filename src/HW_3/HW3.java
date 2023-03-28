@@ -1,5 +1,4 @@
 package HW_3;
-
 public class HW3 {
     public static void main(String[] args) {
         int a = 38 ;

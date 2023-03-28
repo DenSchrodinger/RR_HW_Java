@@ -1,5 +1,4 @@
 package HW_7;
-
 //https://www.codewars.com/kata/playing-with-cubes-i/train/java
 public class Cube {
     private int Side = 0;

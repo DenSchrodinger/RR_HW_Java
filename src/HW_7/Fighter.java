@@ -1,5 +1,4 @@
 package HW_7;
-
 public class Fighter {
 
     public String name;

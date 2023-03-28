@@ -1,5 +1,4 @@
 package HW_7;
-
 public class HW7 {
     public static void main(String[] args) {
 
@@ -65,6 +64,5 @@ public class HW7 {
 //                    }
 //                }
 //            }
-
-        }
     }
+}

@@ -1,5 +1,4 @@
 package HW_7;
-
 public class Salary extends Employee {
 //        класс HW_7.Salary с единственным методом - getSum(HW_7.Employee[] employeeArray),
 //        метод должен возвращать сумму зарплат всех сотрудников из массива переданного в качестве аргумента вызова метода.

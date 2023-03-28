@@ -1,5 +1,4 @@
 package HW_7;
-
 public class Employee extends Person {
 //        класс HW_7.Employee с полями как у HW_7.Person (из предыдущего задания) и поле зарплата.
 //        Класс должен иметь метод isSameName(HW_7.Employee employee) который возвращает true, если у сотрудника
