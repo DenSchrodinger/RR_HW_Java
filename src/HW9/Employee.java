@@ -1,5 +1,4 @@
 package HW9;
-
 public class Employee {
 
     private String name;
@@ -22,7 +21,7 @@ public class Employee {
         return name;
     }
 
-    public int getBaseSalary() {
+    public int getSalary() {
         return baseSalary;
     }
 

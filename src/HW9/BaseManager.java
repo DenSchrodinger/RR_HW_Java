@@ -1,6 +1,4 @@
 package HW9;
-import HW8_2.Employee;
-
 public class BaseManager extends Employee {
     private int numberOfSubordinates;
 

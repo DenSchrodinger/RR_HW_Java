@@ -2,8 +2,8 @@ package HW9;
 import java.util.Arrays;
 public class Main {
 //    Задача №1 задание из Task 8.2 со следующими условиями:
-//    Все методы возвращающие ЗП должны называться getSalary
-//    Все методы в утилитарном классе должны быть static
+//    Все методы возвращающие ЗП должны называться getSalary +
+//    Все методы в утилитарном классе должны быть static +
         public static void main(String[] args) {
 
             System.out.println("\n========================= Задача №1.\n");
