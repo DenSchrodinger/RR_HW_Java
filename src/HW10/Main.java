@@ -32,16 +32,48 @@ public class Main {
         String replace = "We need to take S as 5 O as 0 and I as 1";
         System.out.println(Correct.correct(replace));
 
+        System.out.println("\n ====================== HW 10.2 codewars 6");
 //    HW10.2    https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/java
-//    HW10.2    https://www.codewars.com/kata/5aa736a455f906981800360d/train/java
-//    HW10.2    https://www.codewars.com/kata/5704aea738428f4d30000914/train/java
-//    HW10.2    https://www.codewars.com/kata/5808e2006b65bff35500008f/train/java
-//    HW10.2    https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/java
+       String abbreviature = "Sam Harris";
+       System.out.println(abbreviature + " is for " + AbbreviateTwoWords.abbrevName(abbreviature));
 
-//    HW10.3    https://www.codewars.com/kata/53369039d7ab3ac506000467/train/java
-//    HW10.3    https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java
-//    HW10.3    https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java
-//    HW10.3    https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java
-//    HW10.3    https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/java
+        System.out.println("\n ====================== HW 10.2 codewars 7");
+//    HW10.2    https://www.codewars.com/kata/5aa736a455f906981800360d/train/java
+        String beast = "Red Dragon t";
+        String dish = "Ravioly with eggplant";
+        System.out.println(Kata.feast(beast, dish));
+
+        System.out.println("\n ====================== HW 10.2 codewars 8");
+//    HW10.2    https://www.codewars.com/kata/5704aea738428f4d30000914/train/java
+        System.out.println(Kata2.tripleTrouble("LLh","euo","xtr"));
+
+        System.out.println("\n ====================== HW 10.2 codewars 9");
+//    HW10.2    https://www.codewars.com/kata/5808e2006b65bff35500008f/train/java
+        System.out.println();
+
+//        System.out.println("\n ====================== HW 10.2 codewars 10");
+////    HW10.2    https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/java
+//        System.out.println();
+//
+//        System.out.println("\n ====================== HW 10.3 codewars 11");
+////    HW10.3    https://www.codewars.com/kata/53369039d7ab3ac506000467/train/java
+//        System.out.println();
+//
+//        System.out.println("\n ====================== HW 10.3 codewars 12");
+////    HW10.3    https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java
+//        System.out.println();
+//
+//        System.out.println("\n ====================== HW 10.3 codewars 13");
+////    HW10.3    https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java
+//        System.out.println();
+//
+//        System.out.println("\n ====================== HW 10.3 codewars 14");
+////    HW10.3    https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java
+//        System.out.println();
+//
+//        System.out.println("\n ====================== HW 10.3 codewars 15");
+////    HW10.3    https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/java
+//        System.out.println();
+
     }
 }
