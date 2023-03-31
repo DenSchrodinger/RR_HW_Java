@@ -49,30 +49,35 @@ public class Main {
 
         System.out.println("\n ====================== HW 10.2 codewars 9");
 //    HW10.2    https://www.codewars.com/kata/5808e2006b65bff35500008f/train/java
-        System.out.println();
+        char ch = 'a';
+        System.out.println(Kata3.position(ch));
 
-//        System.out.println("\n ====================== HW 10.2 codewars 10");
-////    HW10.2    https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/java
-//        System.out.println();
-//
-//        System.out.println("\n ====================== HW 10.3 codewars 11");
-////    HW10.3    https://www.codewars.com/kata/53369039d7ab3ac506000467/train/java
-//        System.out.println();
-//
-//        System.out.println("\n ====================== HW 10.3 codewars 12");
-////    HW10.3    https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java
-//        System.out.println();
-//
+        System.out.println("\n ====================== HW 10.2 codewars 10");
+//    HW10.2    https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/java
+        int[] arr1 = {1, 2, 3, 4, 5};
+        int[] arr2 = {6, 7, 8, 9, 10};
+        System.out.println("Сумма массивов arr1 + arr2 = " + Sum.arrayPlusArray(arr1, arr2));
+
+        System.out.println("\n ====================== HW 10.3 codewars 11");
+//    HW10.3    https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/java
+        String str = "asdfdghghjkl";
+        System.out.println(Upper.MakeUpperCase(str));
+
+        System.out.println("\n ====================== HW 10.3 codewars 12");
+//    HW10.3    https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java
+        String str2 = "arrrrrray";
+        //System.out.println(RemoveChars.remove());
+
 //        System.out.println("\n ====================== HW 10.3 codewars 13");
-////    HW10.3    https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/java
+////    HW10.3    https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/java
 //        System.out.println();
 //
 //        System.out.println("\n ====================== HW 10.3 codewars 14");
-////    HW10.3    https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/java
+////    HW10.3    https://www.codewars.com/kata/58649884a1659ed6cb000072/train/java
 //        System.out.println();
 //
 //        System.out.println("\n ====================== HW 10.3 codewars 15");
-////    HW10.3    https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/java
+////    HW10.3    https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/java
 //        System.out.println();
 
     }

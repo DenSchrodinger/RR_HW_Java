@@ -6,8 +6,7 @@ public class Kata3 {
 //    Input :: "a"
 //    Ouput :: "Position of alphabet: 1"
     public static String position(char alphabet) {
-
-        //char posInAplphabet = alphabet.charAt(alphabet.length() - 1);
-        return "";
+        int posInAplphabet = alphabet - 96;
+        return "Position of alphabet: " + posInAplphabet;
     }
 }
