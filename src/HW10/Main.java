@@ -65,7 +65,7 @@ public class Main {
 
         System.out.println("\n ====================== HW 10.3 codewars 12");
 //    HW10.3    https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/java
-        String str2 = "arrrrrray";  //commit test
+        String str2 = "arrrrrray";
         //System.out.println(RemoveChars.remove());
 
 //        System.out.println("\n ====================== HW 10.3 codewars 13");
