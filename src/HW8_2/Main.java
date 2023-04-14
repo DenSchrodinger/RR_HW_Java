@@ -1,5 +1,4 @@
 package HW8_2;
-
 import java.util.Arrays;
 
 public class Main {
@@ -11,7 +10,7 @@ public class Main {
         Employee employee2 = new Employee("Jake", 42);
         Employee employee3 = new Employee("Jeff", 30);
 
-        Employee[] employees = {employee1,employee2, employee3};
+        Employee[] employees = {employee1, employee2, employee3};
         String[] names = new String[employees.length];
         for (int i = 0 ; i < names.length; i++) {
             names[i] = employees[i].getName();

@@ -8,7 +8,6 @@ public  int findByName (String name, Employee[] arr){
             return i;
         }
     }
-
     return -1;
 }
 
@@ -19,7 +18,6 @@ public  int findByName (String name, Employee[] arr){
                 return i;
             }
         }
-
         return -1;
     }
 

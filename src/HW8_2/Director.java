@@ -17,7 +17,7 @@ public class Director extends BaseManager{
             //Если количество подчиненных 0, то результат как у обычного рабочего.
         }
         else {
-            return (int) (getBaseSalary() * ((getNumberOfSubordinates() / 100) * 9 ));
+            return (int)(getBaseSalary() * ((getNumberOfSubordinates() / 100) * 9));
             //<базовая ставка> * (<количество подчиненных> / 100 * 9).
         }
     }
